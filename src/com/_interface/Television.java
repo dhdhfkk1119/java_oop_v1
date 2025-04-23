@@ -12,5 +12,4 @@ public class Television extends HomeAppliances implements RemoteController{
         System.out.println("TV전원을 끕니다");
     }
 
-
 }
